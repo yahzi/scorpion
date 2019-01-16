@@ -1,0 +1,23 @@
+{
+  "name": "scorpion",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahzi/scorpion.git"
+  },
+  "author": "yahzi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yahzi/scorpion/issues"
+  },
+  "homepage": "https://github.com/yahzi/scorpion#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
